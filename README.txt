@@ -5,7 +5,7 @@
 ## 実行方法
 
 ```powershell
-powershell -ExecutionPolicy RemoteSigned -File <スクリプトのディレクトリ>\get_power_mode.ps1
+powershell -ExecutionPolicy RemoteSigned -File <スクリプトのディレクトリ>\get_power_plan.ps1
 ```
 
 `<スクリプトのディレクトリ>` の箇所を置き換えてください。
